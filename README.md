@@ -1,0 +1,2 @@
+# PTime
+Simple pomodoro timer
